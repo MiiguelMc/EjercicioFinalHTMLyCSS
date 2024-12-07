@@ -58,16 +58,16 @@ nav ul li a:hover {
 .videoPrincipal{
   display: flex;
   position: relative;
-  width: 100%;
-  height: auto;
+  justify-content: center;
+  width: 1900px;
+  height: 1000px;
+  background-color:#0cb7f2;
 }
 
 .texto{
   position:absolute;
   visibility:visible;
   color: rgba(0, 217, 255, 0.651);
-  top: 20px;
-  left: 20px;
   background-color: rgba(0, 0, 0, 0);
   justify-content: center;
 }
