@@ -56,7 +56,7 @@ nav ul li a:hover {
   display: flex;
 }
 .videoPrincipal{
-  position: relative;
+  display: flex:
   justify-content: center;
   width: 1900px;
   height: 1000px;
