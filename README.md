@@ -20,3 +20,8 @@ Este proyecto consiste en una página web que simula ser una plataforma informat
 - **Navegación simple**: Hay una barra de navegación que te lleva rápidamente a las secciones importantes.
 - **Información general**: Explica qué es el Ejército Español y qué hace.
 - **Responsivo**: El diseño se adapta a diferentes tamaños de pantalla (funciona en móviles, tablets y ordenadores).
+- ## Ver Proyecto en Vivo
+
+Puedes ver la página web en el siguiente enlace:  
+[**Página Web del Ejército Español**](https://miiguelmc.github.io/EjercicioFinalHTMLyCSS/)
+
